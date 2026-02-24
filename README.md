@@ -107,56 +107,56 @@ Contains daily sales transactions for May.
 ### 1️⃣ Category-wise Revenue, Units, GM% and ASP
 *Shows revenue contribution, gross margin percentage, and pricing insights across categories.*
 
-![Category Metrics](screenshots/category_metrics.png)
+![Category Metrics](category_metrics.png.png)
 
 ---
 
 ### 2️⃣ Table Structure – Product Master (`zeptomain`)
 *Defines SKU-level attributes such as category, tier, fit, stock, and cost.*
 
-![Zepto Main Table Structure](screenshots/zeptomain_structure.png)
+![Zepto Main Table Structure](zeptomain_structure.png.png)
 
 ---
 
 ### 3️⃣ Table Structure – Sales Transactions (`zeptomaysale`)
 *Contains daily transactional sales data used for all analysis.*
 
-![Zepto May Sale Structure](screenshots/zeptomaysale_structure.png)
+![Zepto May Sale Structure](zeptomaysale_structure.png.png)
 
 ---
 
 ### 4️⃣ Top Performing Products by Category, Tier & Fit
 *Highlights best-selling PIDs based on quantity sold.*
 
-![Top PIDs](screenshots/top_pid_performance.png)
+![Top PIDs](top_pid_performance.png.png)
 
 ---
 
 ### 5️⃣ Day-wise Sales Performance
 *Identifies the most profitable days based on revenue and units sold.*
 
-![Day Wise Sales](screenshots/day_wise_sales.png)
+![Day Wise Sales](day_wise_sales.png.png)
 
 ---
 
 ### 6️⃣ City-wise Revenue Contribution
 *Shows regional demand concentration across major cities.*
 
-![City Wise Sales](screenshots/city_wise_sales.png)
+![City Wise Sales](city_wise_sales.png.png)
 
 ---
 
 ### 7️⃣ Low Stock Risk by Category
 *Categories contributing significant sales despite low stock availability.*
 
-![Low Stock Category Risk](screenshots/low_stock_category.png)
+![Low Stock Category Risk](low_stock_category.png.png)
 
 ---
 
 ### 8️⃣ Tier-wise Sales & Revenue Distribution
 *Demonstrates how different pricing tiers perform in terms of demand and revenue.*
 
-![Tier Wise Performance](screenshots/tier_wise_sales.png)
+![Tier Wise Performance](tier_wise_sales.png.png)
 
 ---
 
