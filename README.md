@@ -178,17 +178,12 @@ Contains daily sales transactions for May.
 
 ---
 
-## 📄 Use Cases
-- Portfolio project for **Data Analyst / Business Analyst roles**
-- SQL case study for interviews
-- Practice project for retail & e-commerce analytics
 
----
+
 
 ## ✍️ Author
 **Ashutosh Singhania**  
-Final Year Student | Aspiring Data Analyst  
-Skills: SQL, Data Analysis, Business Insights
+
 
 ---
 
